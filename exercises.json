@@ -1,0 +1,1183 @@
+[
+  {
+    "page": 12,
+    "bab": 1,
+    "title": "LKPD / Asesmen — Halaman 12",
+    "questions": [
+      {
+        "id": "p12q1",
+        "type": "text",
+        "prompt": "Kapan basa ngoko lumrah digunakake?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 12,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p12q2",
+        "type": "text",
+        "prompt": "Tulisen ukara krama kanggo nyuwun idin.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 12,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p12q3",
+        "type": "text",
+        "prompt": "Apa tegesé “matur nuwun”?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 12,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p12q4",
+        "type": "text",
+        "prompt": "Sebutna loro cara ngajeni wong nalika guneman.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 12,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p12q5",
+        "type": "text",
+        "prompt": "Apa bedane ukara kanggo kanca lan kanggo guru?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 12,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "bab": 1,
+    "title": "LKPD / Asesmen — Halaman 15",
+    "questions": [
+      {
+        "id": "p15q1",
+        "type": "text",
+        "prompt": "Situasi A: Ketemu guru Tulisen salam lan pitakon kanthi basa krama nalika ketemu guru ing esuk.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 15,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p15q2",
+        "type": "text",
+        "prompt": "Situasi B: Nyuwun idin Gawe dialog 6 larik nalika arep nyuwun idin menyang perpustakaan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 15,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p15q3",
+        "type": "text",
+        "prompt": "Situasi C: Karo kanca Gawe pacelathon nganggo basa ngoko nalika ngajak kanca sinau bareng.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 15,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p15q4",
+        "type": "text",
+        "prompt": "Nalar kritis Terangna apa sebabe basa kanggo guru lan kanca bisa beda.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 15,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "bab": 1,
+    "title": "LKPD / Asesmen — Halaman 17",
+    "questions": [
+      {
+        "id": "p17q1",
+        "type": "text",
+        "prompt": "Tulisen ukara sing cocog nalika nyuwun idin marang guru.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 17,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p17q2",
+        "type": "text",
+        "prompt": "Owahana: Aku wis tuku buku. Gunakna tembung krama kanggo awake dhewe.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 17,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p17q3",
+        "type": "text",
+        "prompt": "Gawe dialog 6 larik antarane murid lan guru nalika arep menyang perpustakaan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 17,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p17q4",
+        "type": "text",
+        "prompt": "Terangna sebab pilihan tembung marang kanca lan guru bisa beda.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 17,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "bab": 2,
+    "title": "LKPD / Asesmen — Halaman 24",
+    "questions": [
+      {
+        "id": "p24q1",
+        "type": "text",
+        "prompt": "Gawe ukara nganggo tembung “nulungi”.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 24,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p24q2",
+        "type": "text",
+        "prompt": "Tulisen watak loro paraga.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 24,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p24q3",
+        "type": "text",
+        "prompt": "Critakna kedadean sing paling penting.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 24,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p24q4",
+        "type": "text",
+        "prompt": "Apa beda masalah lan panyelesaian?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 24,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p24q5",
+        "type": "text",
+        "prompt": "Gawe pungkasan dongeng alternatif sing isih nduweni piwulang becik.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 24,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "bab": 2,
+    "title": "LKPD / Asesmen — Halaman 27",
+    "questions": [
+      {
+        "id": "p27q1",
+        "type": "text",
+        "prompt": "Paraga Tulisen paraga lan watake, banjur sebutna bukti saka crita.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 27,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p27q2",
+        "type": "text",
+        "prompt": "Urutan kedadean Tulisen 5 kedadean saka wiwitan nganti pungkasan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 27,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p27q3",
+        "type": "text",
+        "prompt": "Piwulang Apa pesen becik saka crita Kancil lan Kura-Kura?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 27,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p27q4",
+        "type": "text",
+        "prompt": "Karya kreatif Gawenen pungkasan crita anyar kanthi 5-7 ukara.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 27,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "bab": 2,
+    "title": "LKPD / Asesmen — Halaman 29",
+    "questions": [
+      {
+        "id": "p29order",
+        "type": "order",
+        "prompt": "Urutna kedadeyan saka dongeng ing LKPD.",
+        "items": [
+          "Kancil kesandhung",
+          "Kura-Kura nggawa woh",
+          "Kura-Kura nulungi",
+          "Kancil njaluk ngapura"
+        ],
+        "correct": [
+          "Kura-Kura nggawa woh",
+          "Kancil kesandhung",
+          "Kura-Kura nulungi",
+          "Kancil njaluk ngapura"
+        ],
+        "explanation": "Urutan miturut pituduh wangsulan ing kaca 30.",
+        "audit_status": "DITAMBAHKAN UNTUK INTERAKSI — PERLU KONFIRMASI",
+        "source_page": 29,
+        "requires_teacher_review": false
+      },
+      {
+        "id": "p29q1",
+        "type": "text",
+        "prompt": "Sapa sing ngece Kura-Kura? Tulisen bukti saka dongeng.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 29,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p29q2",
+        "type": "text",
+        "prompt": "Urutna: Kancil kesandhung; Kura-Kura nggawa woh; Kura-Kura nulungi; Kancil njaluk ngapura.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 29,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p29q3",
+        "type": "text",
+        "prompt": "Apa tumindak becik sing bisa kok tiru saka Kura-Kura?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 29,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p29q4",
+        "type": "text",
+        "prompt": "Tulisen pungkasan alternatif dongeng kanthi 5 ukara.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 29,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "bab": 3,
+    "title": "LKPD / Asesmen — Halaman 36",
+    "questions": [
+      {
+        "id": "p36q1",
+        "type": "text",
+        "prompt": "Salinen limang aksara legena.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 36,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p36q2",
+        "type": "text",
+        "prompt": "Salinen tembung sapi nganggo aksara Jawa.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 36,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p36q3",
+        "type": "text",
+        "prompt": "Salinen tembung buku nganggo aksara Jawa.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 36,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p36q4",
+        "type": "text",
+        "prompt": "Salinen tembung iki nganggo aksara Jawa.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 36,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "bab": 3,
+    "title": "LKPD / Asesmen — Halaman 37",
+    "questions": [
+      {
+        "id": "p37match",
+        "type": "match",
+        "prompt": "Cocogna sandhangan karo swarane.",
+        "pairs": [
+          {
+            "left": "Wulu",
+            "right": "i"
+          },
+          {
+            "left": "Suku",
+            "right": "u"
+          },
+          {
+            "left": "Pepet",
+            "right": "ê"
+          }
+        ],
+        "audit_status": "DITAMBAHKAN UNTUK INTERAKSI — PERLU KONFIRMASI",
+        "source_page": 37,
+        "requires_teacher_review": false
+      },
+      {
+        "id": "p37q1",
+        "type": "text",
+        "prompt": "Sebutna 20 aksara legena miturut urutane.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 37,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p37q2",
+        "type": "text",
+        "prompt": "Apa bedane wulu lan suku?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 37,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p37q3",
+        "type": "text",
+        "prompt": "Wacanen aksara ing kaca PDF, banjur tulisen nganggo Latin.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 37,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p37q4",
+        "type": "text",
+        "prompt": "Tulisen tembung sapi lan buku nganggo aksara Jawa.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 37,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p37q5",
+        "type": "text",
+        "prompt": "Apa bedane taling lan pepet?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 37,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p37q6",
+        "type": "text",
+        "prompt": "Wenehana tuladha aksara nganggo taling tarung.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 37,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 41,
+    "bab": 3,
+    "title": "LKPD / Asesmen — Halaman 41",
+    "questions": [
+      {
+        "id": "p41q1",
+        "type": "text",
+        "prompt": "Salinen limang aksara iki:",
+        "audit_status": "COCOK TEKS",
+        "source_page": 41,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p41q2",
+        "type": "text",
+        "prompt": "Salinen tembung sapi:",
+        "audit_status": "COCOK TEKS",
+        "source_page": 41,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p41q3",
+        "type": "text",
+        "prompt": "Salinen tembung buku:",
+        "audit_status": "COCOK TEKS",
+        "source_page": 41,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p41q4",
+        "type": "text",
+        "prompt": "Salinen tembung iki:",
+        "audit_status": "COCOK TEKS",
+        "source_page": 41,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 51,
+    "bab": 4,
+    "title": "LKPD / Asesmen — Halaman 51",
+    "questions": [
+      {
+        "id": "p51q2",
+        "type": "text",
+        "prompt": "Wacanen geguritan kanthi lafal lan intonasi sing trep.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 51,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p51q3",
+        "type": "text",
+        "prompt": "Terangna isi geguritan Sekolahku Asri.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 51,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p51q4",
+        "type": "text",
+        "prompt": "Sebutna siji tembang dolanan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 51,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p51q5",
+        "type": "text",
+        "prompt": "Apa bedane tembung entar lan saroja?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 51,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p51q6",
+        "type": "text",
+        "prompt": "Gawe geguritan cekak 4 larik babagan kanca utawa sekolah.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 51,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 54,
+    "bab": 4,
+    "title": "LKPD / Asesmen — Halaman 54",
+    "questions": [
+      {
+        "id": "p54q1",
+        "type": "text",
+        "prompt": "Geguritan Wacanen Sekolahku Asri nganggo lafal, jeda, lan ekspresi.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 54,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p54q2",
+        "type": "text",
+        "prompt": "Makna Tulisen 3 gambaran kahanan sekolah saka geguritan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 54,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p54q3",
+        "type": "text",
+        "prompt": "Basa rinengga Jlentrehna makna tembung entar lan saroja ing konteks ukara.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 54,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p54q4",
+        "type": "text",
+        "prompt": "Tembang dolanan Praktikna tembang dolanan kanthi klompok lan refleksikna piwulange.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 54,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 56,
+    "bab": 4,
+    "title": "LKPD / Asesmen — Halaman 56",
+    "questions": [
+      {
+        "id": "p56q1",
+        "type": "text",
+        "prompt": "Isi geguritan Apa sing nggawe sekolah katon asri ing geguritan Sekolahku Asri?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 56,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p56q2",
+        "type": "text",
+        "prompt": "Maca ekspresif Wacanen geguritan kanthi lafal, jeda, lan ekspresi sing trep.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 56,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p56q3",
+        "type": "text",
+        "prompt": "Tembung rinengga Jlentrehna tegese ayem tentrem lan dawa tangane.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 56,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p56q4",
+        "type": "text",
+        "prompt": "Tembang dolanan Apa piwulang sing kok tampa saka dolanan bebarengan?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 56,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 64,
+    "bab": 5,
+    "title": "LKPD / Asesmen — Halaman 64",
+    "questions": [
+      {
+        "id": "p64q2",
+        "type": "text",
+        "prompt": "Apa pendapat utama ing wacan?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 64,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p64q3",
+        "type": "text",
+        "prompt": "Sebutna loro alasan sing ndhukung.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 64,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p64q4",
+        "type": "text",
+        "prompt": "Apa sing bisa koktindakake kanggo njaga kebersihan?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 64,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p64q5",
+        "type": "text",
+        "prompt": "Tulis paragraf 5 ukara babagan pentinge maca buku.",
+        "audit_status": "DIBERSIHKAN DARI FOOTER — CEK MANUAL",
+        "source_page": 64,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 65,
+    "bab": 5,
+    "title": "LKPD / Asesmen — Halaman 65",
+    "questions": [
+      {
+        "id": "p65q2",
+        "type": "text",
+        "prompt": "Apa karya sing paling kokbanggakake?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 65,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p65q3",
+        "type": "text",
+        "prompt": "Apa sing wis kokkuwasani saka limang bab?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 65,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p65q4",
+        "type": "text",
+        "prompt": "Apa sing isih perlu koklatih?",
+        "audit_status": "DIBERSIHKAN DARI FOOTER — CEK MANUAL",
+        "source_page": 65,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 68,
+    "bab": 5,
+    "title": "LKPD / Asesmen — Halaman 68",
+    "questions": [
+      {
+        "id": "p68q1",
+        "type": "text",
+        "prompt": "Deskripsi Gambarna sekolahmu nganggo 6 ukara basa Jawa.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 68,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p68q2",
+        "type": "text",
+        "prompt": "Rekon Critakna pengalamanmu nganggo urutan wektu.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 68,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p68q3",
+        "type": "text",
+        "prompt": "Prosedur Tulisen cara nggawe wedang jeruk kanthi 5 langkah.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 68,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p68q4",
+        "type": "text",
+        "prompt": "Eksposisi Tulisen alasan pentingnya njaga kebersihan sekolah.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 68,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 70,
+    "bab": 5,
+    "title": "LKPD / Asesmen — Halaman 70",
+    "questions": [
+      {
+        "id": "p70q1",
+        "type": "text",
+        "prompt": "Deskripsi Tulisen 6 ukara babagan lingkungan sekolahmu.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 70,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p70q2",
+        "type": "text",
+        "prompt": "Rekon Critakna pengalaman dina Minggu kepungkur kanthi runtut.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 70,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p70q3",
+        "type": "text",
+        "prompt": "Prosedur Tulisen 5 langkah nggawe wedang jeruk kanthi aman.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 70,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p70q4",
+        "type": "text",
+        "prompt": "Eksposisi Tulisen panemu lan 2 alasan kenapa kudu njaga kebersihan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 70,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 76,
+    "bab": 1,
+    "title": "LKPD / Asesmen — Halaman 76",
+    "questions": [
+      {
+        "id": "p76q1",
+        "type": "text",
+        "prompt": "Kowe arep nyilih penggaris saka kanca. Gawe ukara ngoko sing sopan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 76,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p76q2",
+        "type": "text",
+        "prompt": "Kowe arep menyang kamar mandi. Tulisen ukara krama sing trep.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 76,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p76q3",
+        "type": "text",
+        "prompt": "Apa bedane “Aku arep mulih” lan “Kula badhe wangsul”?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 76,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p76q4",
+        "type": "text",
+        "prompt": "Gawe pacelathon 8 larik antarane murid lan guru.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 76,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 77,
+    "bab": 1,
+    "title": "LKPD / Asesmen — Halaman 77",
+    "questions": [
+      {
+        "id": "p77choice",
+        "type": "choice",
+        "prompt": "Kula ... dhateng perpustakaan. Tembung sing trep yaiku ...",
+        "options": [
+          "arep",
+          "badhe",
+          "wis"
+        ],
+        "correct": 1,
+        "explanation": "Badhe iku padanan krama saka arep.",
+        "audit_status": "DITAMBAHKAN UNTUK INTERAKSI — PERLU KONFIRMASI",
+        "source_page": 77,
+        "requires_teacher_review": false
+      },
+      {
+        "id": "p77q1",
+        "type": "text",
+        "prompt": "Kula ... dhateng perpustakaan. Pilihen tembung sing trep.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 77,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p77q2",
+        "type": "text",
+        "prompt": "Owahana “Aku wis mangan” dadi ukara krama nalika matur marang guru.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 77,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p77q3",
+        "type": "text",
+        "prompt": "Apa sing kudu ditindakake nalika wong tuwa lagi ngendika?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 77,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p77q4",
+        "type": "text",
+        "prompt": "Aku wis bisa milih ngoko utawa krama kanthi trep. Terangna.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 77,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 78,
+    "bab": 2,
+    "title": "LKPD / Asesmen — Halaman 78",
+    "questions": [
+      {
+        "id": "p78q1",
+        "type": "text",
+        "prompt": "Sebutna paraga ing dongeng Kancil lan Kura-Kura lan watake.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 78,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p78q2",
+        "type": "text",
+        "prompt": "Apa masalah sing dialami Kancil? Tulisen bukti saka crita.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 78,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p78q3",
+        "type": "text",
+        "prompt": "Kepriye carane Kura-Kura nulungi? Apa sing ditindakake Kancil sabanjure?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 78,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p78q4",
+        "type": "text",
+        "prompt": "Gawe rong ukara babagan piwulang ing sekolah.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 78,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 79,
+    "bab": 2,
+    "title": "LKPD / Asesmen — Halaman 79",
+    "questions": [
+      {
+        "id": "p79q1",
+        "type": "text",
+        "prompt": "Bayangna crita dumadi ing pinggir Danau Ranu. Apa sing owah?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 79,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p79q2",
+        "type": "text",
+        "prompt": "Tulisen pacelathon 6 larik antarane Kancil lan Kura-Kura.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 79,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p79q3",
+        "type": "text",
+        "prompt": "Gawe judhul dongeng anyar lan terangna alesane.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 79,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p79q4",
+        "type": "text",
+        "prompt": "Critakna maneh sajrone 2 menit kanthi wiwitan, tengah, lan pungkasan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 79,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 80,
+    "bab": 3,
+    "title": "LKPD / Asesmen — Halaman 80",
+    "questions": [
+      {
+        "id": "p80q1",
+        "type": "text",
+        "prompt": "Wacanen tembung aksara Jawa ing kaca iki lan tulisen wacan Latine.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 80,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p80q2",
+        "type": "text",
+        "prompt": "Salinen rong tembung aksara Jawa saka kaca iki.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 80,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 81,
+    "bab": 3,
+    "title": "LKPD / Asesmen — Halaman 81",
+    "questions": [
+      {
+        "id": "p81q1",
+        "type": "text",
+        "prompt": "Salinen limang aksara legena.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 81,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p81q2",
+        "type": "text",
+        "prompt": "Salinen tembung sapi nganggo aksara Jawa.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 81,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p81q3",
+        "type": "text",
+        "prompt": "Salinen tembung buku nganggo aksara Jawa.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 81,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p81q4",
+        "type": "text",
+        "prompt": "Salinen tembung iki nganggo aksara Jawa.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 81,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 82,
+    "bab": 4,
+    "title": "LKPD / Asesmen — Halaman 82",
+    "questions": [
+      {
+        "id": "p82q1",
+        "type": "text",
+        "prompt": "Pilih telung tembung sing nggambarake sekolah asri.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 82,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p82q2",
+        "type": "text",
+        "prompt": "Gawe geguritan patang larik babagan kebersihan kelas.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 82,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p82q3",
+        "type": "text",
+        "prompt": "Wacanen geguritanmu nganggo intonasi lan jeda sing trep.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 82,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p82q4",
+        "type": "text",
+        "prompt": "Tulis siji pujian lan siji saran sing santun kanggo karya kancamu.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 82,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 83,
+    "bab": 4,
+    "title": "LKPD / Asesmen — Halaman 83",
+    "questions": [
+      {
+        "id": "p83choice",
+        "type": "choice",
+        "prompt": "Tembung “ayem tentrem” cocog kanggo nggambarake kahanan ...",
+        "options": [
+          "rukun lan tentrem",
+          "rame lan padu",
+          "sedhih lan wedi"
+        ],
+        "correct": 0,
+        "explanation": "Ayem tentrem nggambarake kahanan sing tentrem.",
+        "audit_status": "DITAMBAHKAN UNTUK INTERAKSI — PERLU KONFIRMASI",
+        "source_page": 83,
+        "requires_teacher_review": false
+      },
+      {
+        "id": "p83q1",
+        "type": "text",
+        "prompt": "Sebutna tembang dolanan Jawa sing kokngerteni.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 83,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p83q2",
+        "type": "text",
+        "prompt": "Apa nilai becik saka dolanan bebarengan? Wenehana tuladha.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 83,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p83q3",
+        "type": "text",
+        "prompt": "Gawe ukara nganggo tembung “ayem tentrem”.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 83,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p83q4",
+        "type": "text",
+        "prompt": "Apa bedane maca geguritan lan maca pawarta?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 83,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 84,
+    "bab": 5,
+    "title": "LKPD / Asesmen — Halaman 84",
+    "questions": [
+      {
+        "id": "p84q1",
+        "type": "text",
+        "prompt": "Pilih tema: sekolah, pasar, utawa lingkungan omah. Apa alesane?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 84,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p84q2",
+        "type": "text",
+        "prompt": "Gawe peta gagasan: sapa, ing endi, kapan, lan apa sing kedadeyan.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 84,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p84q3",
+        "type": "text",
+        "prompt": "Tulisen 2 paragraf nganggo wiwitan lan pungkasan sing cetha.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 84,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p84q4",
+        "type": "text",
+        "prompt": "Priksa ejaan, urutan crita, lan pilihan tembung. Apa sing kokrevisi?",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 84,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 85,
+    "bab": 5,
+    "title": "LKPD / Asesmen — Halaman 85",
+    "questions": [
+      {
+        "id": "p85q1",
+        "type": "text",
+        "prompt": "Gawe judhul lan gambar sampul buku mini. Terangna rancanganmu.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 85,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p85q2",
+        "type": "text",
+        "prompt": "Critakna karya sajrone 2 menit kanthi swara cetha. Tulisen pokok presentasimu.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 85,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p85q3",
+        "type": "text",
+        "prompt": "Tulis rong bab sing apik lan siji saran kanggo karya kanca.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 85,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p85q4",
+        "type": "text",
+        "prompt": "Apa sing paling kokbanggakake saka karyamu?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 85,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 86,
+    "bab": 0,
+    "title": "LKPD / Asesmen — Halaman 86",
+    "questions": [
+      {
+        "id": "p86q1",
+        "type": "text",
+        "prompt": "Tulisen ukara krama kanggo nyuwun idin marang guru.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 86,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p86q2",
+        "type": "text",
+        "prompt": "Apa piwulang paling penting saka dongeng Kancil lan Kura-Kura?",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 86,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p86q3",
+        "type": "text",
+        "prompt": "Wacanen aksara Jawa ing PDF banjur tulisen nganggo aksara Latin.",
+        "audit_status": "PERLU CEK MANUAL",
+        "source_page": 86,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p86q4",
+        "type": "text",
+        "prompt": "Apa sing kudu digatekake nalika maca geguritan?",
+        "audit_status": "COCOK TEKS",
+        "source_page": 86,
+        "requires_teacher_review": true
+      }
+    ]
+  },
+  {
+    "page": 87,
+    "bab": 0,
+    "title": "LKPD / Asesmen — Halaman 87",
+    "questions": [
+      {
+        "id": "p87q1",
+        "type": "text",
+        "prompt": "Tulisen langkah-langkah nggawe wedang jeruk kanthi aman.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 87,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p87q2",
+        "type": "text",
+        "prompt": "Tulisen pengalamanmu nulungi kanca sajrone 5–7 ukara.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 87,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p87q3",
+        "type": "text",
+        "prompt": "Gawe geguritan patang larik babagan sekolah.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 87,
+        "requires_teacher_review": true
+      },
+      {
+        "id": "p87q4",
+        "type": "text",
+        "prompt": "Pilih siji bab sing paling koksenengi lan terangna alesane.",
+        "audit_status": "COCOK TEKS",
+        "source_page": 87,
+        "requires_teacher_review": true
+      }
+    ]
+  }
+]
